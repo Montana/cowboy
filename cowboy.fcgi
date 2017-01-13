@@ -2,6 +2,7 @@
 require 'rubygems'
 require 'rack'
 require 'sinatra'
+require 'sylvia'
  
 require 'start'
 Rack::Handler::FastCGI.run Sinatra::Application
