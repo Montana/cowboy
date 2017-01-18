@@ -6,7 +6,7 @@ Sinatra based server for what we call Cowboy. Specifically built for Prowl writt
 ## Usage
 
 ```
-cd httpdocs
+cd httpdocs (or whatever directory you make at first)
 git clone http://www.github.com/montana/cowboy.git
 chmod u+x cowboy/cowboy.fcgi
 chmod u+x cowboy.rb
