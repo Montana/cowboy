@@ -1,3 +1,7 @@
+require 'sinatra'
+
+get('/') { 'this is cowboy yeehaw!' }
+
 get '/' do
   'Hello, Prowl!'
 end
