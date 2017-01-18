@@ -17,3 +17,8 @@ end
 get '/hi' do
   'Hello, Prowl 4!'
 end
+
+post '/' do
+  connections.each { |out| out << "data: #{params[:msg]}\n\n" }
+  204 
+end
