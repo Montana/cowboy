@@ -1,7 +1,7 @@
 ![Cowboy](https://www.getprowl.com/images/cowboy.png)
 
 # Cowboy
-Sinatra based server for Cowboy specifically built for Prowl written by Montana Mendy.
+Sinatra based server for what we call Cowboy. Specifically built for Prowl written by Montana Mendy.
 
 ## Usage
 
