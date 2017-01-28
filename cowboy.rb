@@ -1,4 +1,5 @@
 require 'sinatra'
+require 'brunch'
 require 'capybara'
 require_relative 'test_helper'
 
